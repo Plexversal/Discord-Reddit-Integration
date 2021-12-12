@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "subreddit": ["fortnitebr", "apexlegends"],
+    "channels": "channelID",
+    "owner": "ownerDiscordID"
+}
